@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "cinder-browser",
+      "display_name": "Cinder Browser",
+      "description": "El navegador oficial de Chimo Linux.",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/chimoinc/appboutique/main/apps/cinder-browser.chx"
+    }
+  ]
+}

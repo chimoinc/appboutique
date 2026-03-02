@@ -8,3 +8,9 @@
     }
   ]
 }
+{
+  "name": "Kiawe AI",
+  "description": "El alma de Cinder OS. Tu asistente personal inteligente.",
+  "icon": "https://raw.githubusercontent.com/chimoinc/appboutique/main/icons/kiawe-ai.webp",
+  "install_cmd": "chx://https://raw.githubusercontent.com/chimoinc/appboutique/main/apps/kiawe-ai.chx"
+}

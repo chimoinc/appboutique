@@ -4,13 +4,13 @@
       "display_name": "Cinder Browser",
       "description": "Navegador nativo de Chimo Linux.",
       "icon": "https://raw.githubusercontent.com/chimoinc/appboutique/main/icons/cinder.png",
-      "install_cmd": "chx://https://raw.githubusercontent.com/chimoinc/appboutique/main/apps/cinder-browser.chx"
+      "url": "chx://https://raw.githubusercontent.com/chimoinc/appboutique/main/apps/cinder-browser.chx"
     },
     {
       "display_name": "Kiawe AI",
       "description": "El alma de Cinder OS. Tu asistente inteligente.",
       "icon": "https://raw.githubusercontent.com/chimoinc/appboutique/main/icons/kiawe-ai.webp",
-      "install_cmd": "chx://https://raw.githubusercontent.com/chimoinc/appboutique/main/apps/kiawe-ai.chx"
+      "url": "chx://https://raw.githubusercontent.com/chimoinc/appboutique/main/apps/kiawe-ai.chx"
     }
   ]
 }
